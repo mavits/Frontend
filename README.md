@@ -36,3 +36,5 @@ são ramificações / versões paralelas
 - versionamento 1.0.0
 
 - Vamos 
+
+- para onde foi?
