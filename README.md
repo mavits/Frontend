@@ -24,3 +24,12 @@ Informação de alteração
 
 ## Gitflow
 Fluxo do Git
+
+
+### branchs
+são ramificações / versões paralelas
+
+- main / master (Quando vai para produçãp)
+- develop (area de teste)
+- DOD 
+- versionamento 1.0.0
