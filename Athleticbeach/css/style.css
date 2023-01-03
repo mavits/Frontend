@@ -17,7 +17,7 @@ body{
     display: block;
     float: left;
     padding: 20px;
-    width: 100%;
+    width: 80%;
     margin: 0 auto;
 }
 
@@ -60,6 +60,11 @@ h4{
 p{
     margin-bottom: 10px;
     line-height: 1.4rem;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
 }
 
 ol{
