@@ -16,7 +16,8 @@ body{
 .container{
     display: block;
     float: left;
-    padding: 20px;
+    max-width: 100%;
+    width: 100%;
     width: 80%;
     margin: 0 auto;
 }
@@ -134,4 +135,27 @@ footer p{
 footer small{
     font-size: 80%;
     display: block;
+}
+
+#banner{
+    background-image: url(../Imagens/banner.png);
+    background-repeat: no-repeat;
+    background-position: cover;
+    width: 100vw;
+    height: 60vh;
+}
+
+.legenda{
+    background-color: rgba(255, 255, 255, .6);
+    padding: 20px;
+    border-radius: 5px;
+    float: right;
+    margin: 10vh 10vh 0 0;
+    width: 30vw;
+}
+
+.legenda h4,
+.legenda h5{
+    color: #254159;
+
 }
